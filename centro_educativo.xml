@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias del Colegio Borja Moll</title>
+    <link>https://colegioborjamoll.net/</link>
+    <description>Últimas noticias y avisos del centro educativo.</description>
+    <language>es-es</language>
+
+    <item>
+      <title>Matrícula abierta curso 23-24</title>
+      <link>https://colegioborjamoll.net/matricula-abierta-curso-23-24</link>
+      <description>Apertura del periodo de matrícula para el curso 2023-2024.</description>
+      <pubDate>Mon, 01 Apr 2024 09:00:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Actividades extraescolares</title>
+      <link>https://colegioborjamoll.net/extraescolares</link>
+      <description>Información sobre las actividades extraescolares disponibles en el centro.</description>
+      <pubDate>Tue, 15 Oct 2024 10:30:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
